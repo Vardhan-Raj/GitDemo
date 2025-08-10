@@ -1,0 +1,1 @@
+This is a test\demo file in GitNewBranch, just for testing boss
